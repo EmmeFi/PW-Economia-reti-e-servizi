@@ -1,0 +1,186 @@
+﻿id,airport,name,size,tipo
+s001,AAL,Aalborg Airport,1892,EU
+s002,AAR,Aarhus Tirstrup Airport,3218,EU
+s003,ABV,Abuja,8010,extra-EU
+s004,ABZ,Aberdeen (GB),41750,EU
+s005,ACC,Accra,6696,extra-EU
+s006,ACE,Lanzarote,4878,EU
+s007,ADB,Izmir Adnan Menderes Apt,2499,EU
+s008,AGP,Malaga,16637,EU
+s009,ALC,Alicante,4653,EU
+s010,ALG,Algiers,4557,extra-EU
+s011,AMS,Amsterdam,55219,EU
+s012,ANU,Antigua,16554,extra-EU
+s013,ARN,Stockholm Arlanda Apt,26992,EU
+s014,ATH,Athens (GR),17646,EU
+s015,ATL,Atlanta Hartsfield-jackson Intl Apt,7476,extra-EU
+s016,AUH,Abu Dhabi International Apt,16554,extra-EU
+s017,BAH,Bahrain,18042,extra-EU
+s018,BCN,Barcelona Apt,30644,EU
+s019,BDA,Bermuda L.f Wade International,5607,extra-EU
+s020,BEB,Benbecula,2303,EU
+s021,BEG,Belgrade,2646,EU
+s022,BGI,Barbados,15753,extra-EU
+s023,BKK,Bangkok Suvarnabhumi International Apt,18042,extra-EU
+s024,BLL,Billund,8180,EU
+s025,BLQ,Bologna,9556,EU
+s026,BLR,Bengaluru,9021,extra-EU
+s027,BMA,Stockholm Bromma Apt,1120,EU
+s028,BOD,Bordeaux Merignac Apt,7888,EU
+s029,BOM,Mumbai,17298,extra-EU
+s030,BOS,Boston Logan International Apt,24564,extra-EU
+s031,BRN,Berne Belp,832,EU
+s032,BRR,Barra,931,EU
+s033,BRU,Brussels Airport,39066,EU
+s034,BSL,Basel,11718,EU
+s035,BUD,Budapest,12966,EU
+s036,BWI,Baltimore Washington International Apt,6696,extra-EU
+s037,CAI,Cairo,9021,extra-EU
+s038,CAL,Campbeltown,798,EU
+s039,CCU,Kolkata,3471,extra-EU
+s040,CDG,Paris Charles de Gaulle Apt,50369,EU
+s041,CMN,Casablanca Mohammed V Apt,11346,extra-EU
+s042,CPH,Copenhagen Kastrup Apt,26064,EU
+s043,CPT,Cape Town,66911,extra-EU
+s044,CTA,Catania,1764,EU
+s045,DAC,Dhaka,3471,extra-EU
+s046,DAR,Dar Es Salaam,2808,extra-EU
+s047,DBV,Dubrovnik,2418,EU
+s048,DEL,Delhi,18042,extra-EU
+s049,DEN,Denver Intl Apt,8277,extra-EU
+s050,DFW,Dallas/Fort Worth Intl Apt,8010,extra-EU
+s051,DME,Moscow Domodedovo Apt,16521,EU
+s052,DOH,Doha,9021,extra-EU
+s053,DRS,Dresden,3024,EU
+s054,DTW,Detroit Wayne County,13392,extra-EU
+s055,DUB,Dublin,17593,EU
+s056,DUR,Durban King Shaka International Apt,33000,extra-EU
+s057,DUS,Duesseldorf International Airport,504,EU
+s058,DXB,Dubai International,23763,extra-EU
+s059,EBB,Entebbe,2808,extra-EU
+s060,EDI,Edinburgh,97679,EU
+s061,EWR,Newark Liberty International Apt,22170,extra-EU
+s062,EZE,Buenos Aires Ministro Pistarini,5238,extra-EU
+s063,FAO,Faro,5231,EU
+s064,FCO,Rome Fiumicino Apt,29942,EU
+s065,FEZ,Fes,1341,extra-EU
+s066,FNC,Funchal,4823,EU
+s067,FRA,Frankfurt International Apt,7370,EU
+s068,GCM,Grand Cayman Island,3888,extra-EU
+s069,GIB,Gibraltar,8046,EU
+s070,GIG,Rio de Janeiro International Apt,3783,extra-EU
+s071,GLA,Glasgow International Airport,83331,EU
+s072,GNB,Lyon Grenoble-St Geoirs Apt,2236,EU
+s073,GND,Grenada,2403,extra-EU
+s074,GOT,Goteborg Landvetter Apt,468,EU
+s075,GRU,Sao Paulo Guarulhos Intl Apt,22116,extra-EU
+s076,GVA,Geneva,51808,EU
+s077,HEL,Helsinki-Vantaa,10422,EU
+s078,HKG,Hong Kong International Apt,27063,extra-EU
+s079,HRE,Harare,3745,extra-EU
+s080,HRG,Hurghada,596,extra-EU
+s081,IAD,Washington Dulles International Apt,17394,extra-EU
+s082,IAH,Houston George Bush Intercontinental Ap,21381,extra-EU
+s083,ILY,Islay,1802,EU
+s084,INN,Innsbruck,6679,EU
+s085,INV,Inverness,5746,EU
+s086,IOM,Isle of Man,2040,EU
+s087,ISB,Islamabad,6942,extra-EU
+s088,IST,Istanbul Ataturk Airport,11315,EU
+s089,JER,Jersey,19872,EU
+s090,JFK,New York J F Kennedy International Apt,67353,extra-EU
+s091,JNB,Johannesburg O.r. Tambo International,108423,extra-EU
+s092,KBP,Kiev Borispol Intl Apt,4619,EU
+s093,KEF,Reykjavik Keflavik International Apt,1323,EU
+s094,KIN,Kingston Norman Manley Intl Apt,2937,extra-EU
+s095,KOI,Kirkwall,9044,EU
+s096,KRK,Krakow,5493,EU
+s097,KWI,Kuwait,8010,extra-EU
+s098,LAD,Luanda,1068,extra-EU
+s099,LAX,Los Angeles International Apt,26772,extra-EU
+s100,LCA,Larnaca,6696,EU
+s101,LCY,London City Apt,56430,EU
+s102,LDY,Derry,3094,EU
+s103,LED,St Petersburg Pulkovo Apt,4619,EU
+s104,LGW,London Gatwick Apt,446375,EU
+s105,LHR,London Heathrow Apt,1419021,EU
+s106,LIN,Milan Linate Apt,17629,EU
+s107,LIS,Lisbon,12408,EU
+s108,LOS,Lagos,9021,extra-EU
+s109,LPA,Las Palmas,4376,EU
+s110,LSI,Shetland Islands Sumburgh Apt,8432,EU
+s111,LUN,Lusaka,3024,extra-EU
+s112,LUX,Luxembourg,5336,EU
+s113,LVI,Livingstone,2530,extra-EU
+s114,LYS,Lyon St-exupery Apt,13605,EU
+s115,MAA,Chennai,5874,extra-EU
+s116,MAD,Madrid Barajas Apt,37833,EU
+s117,MAN,Manchester (GB),81021,EU
+s118,MCO,Orlando International Apt,6675,extra-EU
+s119,MCT,Muscat,8277,extra-EU
+s120,MEX,Mexico City Juarez International Apt,3783,extra-EU
+s121,MIA,Miami International Apt,18042,extra-EU
+s122,MLA,Malta,6794,EU
+s123,MRS,Marseille Provence Apt,8773,EU
+s124,MRU,Mauritius,5377,extra-EU
+s125,MXP,Milan Malpensa Apt,18959,EU
+s126,NAP,Naples Capodichino Apt,6174,EU
+s127,NAS,Nassau International Apt,9504,extra-EU
+s128,NBO,Nairobi Jomo Kenyatta International Apt,10818,extra-EU
+s129,NCE,Nice,28696,EU
+s130,NCL,Newcastle,26256,EU
+s131,NQY,Newquay,2893,EU
+s132,NRT,Tokyo Narita Apt,17751,extra-EU
+s133,ORD,Chicago O'Hare International Apt,23994,extra-EU
+s134,OSL,Oslo Gardermoen Airport,23202,EU
+s135,OTP,Bucharest Henri Coanda Apt,7858,EU
+s136,PEK,Beijing Capital Intl Apt,7209,extra-EU
+s137,PFO,Paphos,7777,EU
+s138,PHL,Philadelphia International Apt,14973,extra-EU
+s139,PHX,Phoenix Sky Harbor Intl Apt,7566,extra-EU
+s140,PLS,Providenciales,864,extra-EU
+s141,PLZ,Port Elizabeth,12995,extra-EU
+s142,POS,Port of Spain,3738,extra-EU
+s143,PRG,Prague Ruzyne,15706,EU
+s144,PRN,Pristina,2499,EU
+s145,PSA,Pisa,5955,EU
+s146,PVG,Shanghai Pudong International Apt,5874,extra-EU
+s147,RAK,Marrakech,14979,extra-EU
+s148,SEA,Seattle/Tacoma International Apt,12276,extra-EU
+s149,SFO,San Francisco International Apt,18042,extra-EU
+s150,SIN,Singapore Changi Apt,25575,extra-EU
+s151,SJJ,Sarajevo,2058,EU
+s152,SKG,Thessaloniki,3234,EU
+s153,SOF,Sofia,4619,EU
+s154,SSH,Sharm El-Sheikh,3158,extra-EU
+s155,SYD,Sydney Kingsford Smith Apt,17298,extra-EU
+s156,SYY,Stornoway,7038,EU
+s157,SZG,Salzburg,4830,EU
+s158,TAB,Tobago,3471,extra-EU
+s159,TFS,Tenerife Sur Apt,13740,EU
+s160,TIA,Tirana,3234,EU
+s161,TIP,Tripoli,4470,extra-EU
+s162,TLS,Toulouse,10974,EU
+s163,TLV,Tel Aviv-yafo Ben Gurion International,14973,extra-EU
+s164,TPA,Tampa International Apt,4806,extra-EU
+s165,TRE,Tiree,520,EU
+s166,TRN,Turin Caselle Airport,3626,EU
+s167,TUN,Tunis,3584,extra-EU
+s168,UVF,St Lucia Hewanorra Apt,2403,extra-EU
+s169,VAR,Varna,2847,EU
+s170,VCE,Venice Marco Polo Apt,8769,EU
+s171,VFA,Victoria Falls,4030,extra-EU
+s172,VIE,Vienna,21255,EU
+s173,VRN,Verona Villafranca Airport,3783,EU
+s174,WAW,Warsaw,12155,EU
+s175,WDH,Windhoek Hosea Kutako International,3910,extra-EU
+s176,WIC,Wick,714,EU
+s177,YUL,Montreal Pierre Elliott Trudeau Int Apt,8277,extra-EU
+s178,YVR,Vancouver International Apt,9021,extra-EU
+s179,YYC,Calgary,5874,extra-EU
+s180,YYZ,Toronto Lester B Pearson Intl Apt,14973,extra-EU
+s181,ZRH,Zurich Airport,45930,EU
+s182,TXL,Berlin Tegel Apt,25449,EU
+s183,STR,Stuttgart Airport,12867,EU
+s184,HAM,Hamburg Airport,17870,EU
+s185,MUC,Munich International Airport,30730,EU
